@@ -10,3 +10,7 @@ small text above
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Turn on github pages
+- [ ] Outline port
+- [ ] Jeff
